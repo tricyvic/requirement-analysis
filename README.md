@@ -66,3 +66,6 @@
 - Provide a clear visual representation of system functionalities.
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and development team
+### Use Case Diagram
+![Use Case](../requirement-analysis/alx-booking-uc.png)
+
